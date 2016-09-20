@@ -1,0 +1,11 @@
+<resources>
+    <!-- titleView自定义属性 -->
+    <declare-styleable name="titleview" >
+        <attr name="title_content" format="string"/>
+        <attr name="count_content" format="string"/>
+        <attr name="title_text_size" format="dimension"/>
+        <attr name="title_text_color" format="color"/>
+        <attr name="count_text_size" format="dimension"/>
+        <attr name="count_text_color" format="color"/>
+    </declare-styleable>
+</resources>
