@@ -1,7 +1,7 @@
 # android-titleview
 
 在介绍具体的使用说明之前，我们先看一下简单的实现效果：
-![这里写图片描述](http://img.blog.csdn.net/20160920111903431)
+<br>![这里写图片描述](http://img.blog.csdn.net/20160920111903431)<br>
 
 **使用说明**
 
