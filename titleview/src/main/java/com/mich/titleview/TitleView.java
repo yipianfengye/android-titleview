@@ -9,13 +9,14 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 /**
  * Created by aaron on 16/9/19.
  * 自定义实现TitleView组件
  */
-public class TitleView extends FrameLayout{
+public class TitleView extends LinearLayout{
 
     /**
      * title TextView组件
